@@ -1,4 +1,4 @@
-# spotify-clone
+# twitter-clone
 
 ## Project setup
 ```
